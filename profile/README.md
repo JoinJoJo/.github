@@ -2,7 +2,11 @@
 
 Github organization playground club
 
-![钻石星尘拳.gif](/profile/jojo.gif)
+![jojo.gif](/profile/jojo.gif)
+
+![钻石星尘拳.gif](/profile/钻石星尘拳.gif)
+
+
 
 You only live once!
 
