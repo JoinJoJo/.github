@@ -13,3 +13,5 @@ You only live once!
 You want it, you got it!
 
 You are all alone
+
+Dont waste your life
